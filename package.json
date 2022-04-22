@@ -1,0 +1,20 @@
+{
+  "name": "rubik-cube",
+  "version": "1.0.0",
+  "description": "A Rubik's cube made with HTML, CSS and JavaScript 📦",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pncsoares/rubik-cube.git"
+  },
+  "keywords": ["rubik-cube", "rubiks-cube", "rubik", "cube"],
+  "author": "Pedro Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pncsoares/rubik-cube/issues"
+  },
+  "homepage": "https://github.com/pncsoares/rubik-cube#readme"
+}
