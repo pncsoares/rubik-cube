@@ -4,7 +4,6 @@
   "description": "A Rubik's cube made with HTML, CSS and JavaScript 📦",
   "main": "./src/Index.js",
   "scripts": {
-    "start": "node ./src/Index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
