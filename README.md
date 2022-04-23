@@ -41,6 +41,18 @@ Go to the project directory
   cd rubik-cube
 ```
 
+Open in Visual Studio Code
+
+```bash
+  code .
+```
+
+- Expand `src` directory
+- Right click on `Index.html` file
+- Chose `Open with Live Server`
+
+If you don't have the extension Live Server installed, you can find it [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
 # License
 
 MIT
