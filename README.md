@@ -12,6 +12,13 @@ And now a bit shuffled
 
 ![cube-3](./assets/images/cube-3.png)
 
+# Technologies
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Node](https://nodejs.org/en/docs)
+
 # Setup
 
 ## Clone repository
